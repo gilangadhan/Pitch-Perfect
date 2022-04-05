@@ -1,0 +1,4 @@
+disabled_rules:
+- trailing_whitespace
+- function_body_length
+
